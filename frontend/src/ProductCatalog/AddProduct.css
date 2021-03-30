@@ -1,0 +1,13 @@
+@media all and (min-width: 480px) {
+    .AddProduct {
+      padding: 30px 0;
+    }
+  
+    .AddProduct form {
+      margin: 0 auto;
+      max-width: 320px;
+    }
+  }
+
+  
+  

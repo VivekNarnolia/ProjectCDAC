@@ -1,0 +1,41 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300);
+
+
+.img-responsive, .thumbnail a>img, .thumbnail>img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+.jumbotron-flat {
+  background-color: solid 4DB8FFF;
+  height: 100%;
+  border: 1px solid #4DB8FF;
+  background: white;
+  width: 100%;
+text-align: center;
+overflow: auto;
+}
+
+.paymentAmt {
+    font-size: 80px; 
+}
+
+.centered {
+    text-align: center;
+}
+
+.title {
+ padding-top: 15px;   
+}
+.btn {
+    word-spacing: normal;
+    border-spacing: 100;
+    margin-bottom: 10;
+}
+.btn-success {
+    color: #fff;
+    background-color: #5cb85c;
+    border-color: #4cae4c;
+    margin: 10px;
+}

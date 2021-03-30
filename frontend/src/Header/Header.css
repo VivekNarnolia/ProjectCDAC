@@ -1,0 +1,8 @@
+@media (min-width: 768px)
+{
+.container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse, .container>.navbar-header {
+    margin-right: 0;
+    margin-left: 0;
+    font-family: cursive;
+    font-size: larger;
+}}
